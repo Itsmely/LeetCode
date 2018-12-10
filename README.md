@@ -14,6 +14,10 @@ https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/FindMedia
 
 https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestPalindrome.java
 
+4、字符串转换整数 (atoi)
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/MyAtoi.java
+
 ## 鹅厂面试题之排序与搜索
 
 1、数组中第K个最大元素
