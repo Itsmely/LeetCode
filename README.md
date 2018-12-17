@@ -18,6 +18,14 @@ https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestPa
 
 https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/MyAtoi.java
 
+5、最长公共前缀
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestPalindrome.java
+
+6、三数之和
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/ThreeSum.java
+
 ## 鹅厂面试题之排序与搜索
 
 1、数组中第K个最大元素
