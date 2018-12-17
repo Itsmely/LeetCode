@@ -20,7 +20,7 @@ https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/MyAtoi.ja
 
 5、最长公共前缀
 
-https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestPalindrome.java
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestCommonPrefix.java
 
 6、三数之和
 
