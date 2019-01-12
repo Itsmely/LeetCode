@@ -26,6 +26,18 @@ https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/LongestCo
 
 https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/ThreeSum.java
 
+7、最接近的三数之和
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/ThreeSumClosest.java
+
+8、有效的括号
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/IsValid.java
+
+9、删除排序数组中的重复项
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/RemoveDuplicates.java
+
 ## 鹅厂面试题之排序与搜索
 
 1、数组中第K个最大元素
