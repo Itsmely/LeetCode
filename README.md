@@ -38,6 +38,14 @@ https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/IsValid.j
 
 https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/RemoveDuplicates.java
 
+10、盛最多水的容器
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/MaxArea.java
+
+11、字符串相乘
+
+https://github.com/Itsmely/LeetCode/blob/master/src/main/java/leetcode/Multiply.java
+
 ## 鹅厂面试题之排序与搜索
 
 1、数组中第K个最大元素
